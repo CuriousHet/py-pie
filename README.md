@@ -5,5 +5,5 @@
 | Topic | What it covers |
 |-------|---------------|
 | [object_model](./object_model/README.md) | Variables as labels, identity vs equality, mutable default arguments |
-
+| [functions](./functions/README.md) | First-class functions, LEGB scope, closures, decorators, `functools.wraps` |
 ---
