@@ -10,4 +10,5 @@
 | [iterators_generators](./iterators_generators/README.md) | `__iter__`, `__next__`, `yield`, lazy evaluation, `itertools` |
 | [data_model](./data_model/README.md) | Dunder methods, operator overloading, `__repr__` vs `__str__`, `__rmul__` |
 | [oop](./oop/README.md) | ABCs, mixins, `super()`, MRO, composition vs inheritance |
+| [concurrency](./concurrency/README.md) | GIL, threads vs asyncio vs processes, `concurrent.futures` |
 ---
